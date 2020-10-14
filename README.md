@@ -1,6 +1,7 @@
 # buzzword_elevate
 
 ![Icon](/assets/Buzzword.jpg)
+
 elevate for the buzzwords using in computer science paradigm using simple tool collection
 
 ## How to Contribute
