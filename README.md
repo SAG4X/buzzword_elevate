@@ -9,7 +9,7 @@ elevate for the buzzwords using in computer science paradigm using simple tool c
 to contribute the repository first fork to the repository from SAG4X/buzzword
 
 ```
-YourUserName->buzzword
+YourUserName->buzzword_elevate
 ```
 Open a issue about the buzzword tool that you want to add
 
