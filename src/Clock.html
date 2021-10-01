@@ -30,10 +30,10 @@
 	  elevate
 	  </a>
 	  <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-      <a class="dropdown-item" href="/calculator.html">Calculator</a>
+      <a class="dropdown-item" href="/calculator.html">New Calculator</a>
       <a class="dropdown-item" href="/prefixAndPostfixConvertor.html">Infix-&gt postfix/Prefix</a>
       <a class="dropdown-item" href="/prefixAndPostfixEvaluator.html">Postfix/Prefix-&gt Evaluate</a>
-      <a class="dropdown-item" href="/Clock.html">Beautiful Clock</a>
+      <a class="dropdown-item" href="/Clock.html">Beautiful Clock for</a>
 	
 	</div>
       </div>
@@ -101,6 +101,10 @@
             select[0].style.display = "none";
             select[1].style.display= "block";
           }
+	      }else if(choice == "brand"){
+            select[0].style.display = "none";
+            select[1].style.display= "block";
+          }
           ctx.beginPath()
           ctx.arc(radius,radius,radius-10,0,Math.PI * 2);
           ctx.fillStyle = borderColor;
@@ -145,6 +149,10 @@
         
           ctx.fillText(hours+":"+min+":"+sec,200,100);
           ctx.fillText(select[2],200,130);
+	  ctx.moveTo(radius,radius);
+          ctx.lineTo(radius + radius * Math.sin(secAng)*0.87,radius - radius * Math.cos(secAng)*0.87);
+          ctx.lineWidth = 1;
+          ctx.stroke();
         }
       setInterval(set_time,1000);
       
