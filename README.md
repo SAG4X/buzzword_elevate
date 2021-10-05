@@ -1,4 +1,4 @@
-# buzzword_elevate
+# Buzzword Elevate
 
 ![Icon](/assets/Buzzword.jpg)
 
