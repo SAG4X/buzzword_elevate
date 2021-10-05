@@ -2,7 +2,7 @@
 
 ![Icon](/assets/Buzzword.jpg)
 
-elevate for the buzzwords using in computer science paradigm using simple tool collection
+elevate for the buzzwords using in computer science paradigm using simple tool collection. See the demo from here https://sag4x.github.io/buzzword_elevate/
 
 ## How to Contribute
 
