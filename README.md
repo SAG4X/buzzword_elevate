@@ -2,7 +2,9 @@
 
 ![Icon](/assets/Buzzword.jpg)
 
-![Icon2](https://github.com/MOSVR/Edifice/blob/main/edifice_logo.png)
+<p align="center">
+  <img width="100" height="100" src="https://github.com/MOSVR/Edifice/blob/main/edifice_logo.png">
+</p>
 
 elevate for the buzzwords using in computer science paradigm using simple tool collection. See the demo from here https://sag4x.github.io/buzzword_elevate/
 
