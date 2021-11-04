@@ -1,9 +1,14 @@
 # Buzzword Elevate
+<img src="/assets/Buzzword.jpg" alt="drawing" style="width:300px;"/>
 
-![Icon](/assets/Buzzword.jpg)
+Elevate for the Buzzwords using in computer science paradigm using a simple tool collection. See the demo from here https://sag4x.github.io/buzzword_elevate/.
 
+## Current Tools
 
-elevate for the buzzwords using in computer science paradigm using simple tool collection. See the demo from here https://sag4x.github.io/buzzword_elevate/
+- Infix to Prefix
+- Infix to Postfix
+- Postifx to Prefix
+- GCD calculator
 
 ## How to Contribute
 
